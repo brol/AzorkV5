@@ -1,0 +1,29 @@
+v0.7 - 08/04/2016 - Pierre Van Glabeke :
+* html5
+* héritage de thème, mustek
+* modifs css
+* dc2.9 requis
+
+v0.6 - 16/02/2015 - Pierre Van Glabeke :
+* mise à jour css + html5
+* ajout localisation
+* simpleMenu en top du blog à la place du widget Liens de navigation
+
+v0.5.2 par Pierre Van Glabeke :
+* mise à jour css + html
+* ajout changelog
+
+v0.5.1 par Pierre Van Glabeke :
+* mise en conformité des balises
+* ajout style pour l'effet current des catégories en sidebar et diverses modifs de styles
+* ajout des sous-catégories dans le tpl category.html
+* ajout de page.html et external.html
+* suppression de tpl inutiles (identiques à ceux du thème par défaut)
+
+MAJ du 16 Mars 2008
+* Modification d'affichage de certaines balises
+* Changement du nombre de billets affichés par catégorie
+* Correction CSS
+
+v0.4
+* compatibilité Dotclear 2.1.1
